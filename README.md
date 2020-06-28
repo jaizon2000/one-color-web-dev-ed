@@ -31,3 +31,4 @@
 ## CSS
 `margin: auto;` centers its content
 `&::after {...}` can add additional text, elemennt or style
+`grid-column: 2/3;` take up space from column 2 to 3
